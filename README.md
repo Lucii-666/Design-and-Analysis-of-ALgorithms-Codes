@@ -353,11 +353,6 @@ This project is open source and available for educational purposes.
 - Implementations inspired by academic curriculum
 - Community contributions and feedback
 
-## 📧 Contact
-
-**Repository Owner**: Ashutosh Kumar Singh
-**Email**: ashutoshhjp1067@gmail.com 
----
 
 <div align="center">
 
