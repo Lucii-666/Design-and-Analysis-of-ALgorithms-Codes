@@ -322,7 +322,6 @@ Design-and-Analysis-of-Algorithms/
 │   ├── chain_matrix_multiplication.py
 │   └── output/
 │
-├── CONVERSION_SUMMARY.md
 └── README.md
 ```
 
@@ -356,9 +355,8 @@ This project is open source and available for educational purposes.
 
 ## 📧 Contact
 
-**Repository Owner**: Chanevan317  
-**Repository**: [Design-and-Analysis-of-Algorithms](https://github.com/Chanevan317/Design-and-Analysis-of-Algorithms)
-
+**Repository Owner**: Ashutosh Kumar Singh
+**Email**: ashutoshhjp1067@gmail.com 
 ---
 
 <div align="center">
